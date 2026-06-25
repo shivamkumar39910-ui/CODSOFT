@@ -34,10 +34,11 @@ def delete_task():
 load_tasks()
 
 print("----------------------------------")
-print("   SHIVAM'S TO DO LIST MANAGER   ")
+print("  SHIVAM'S TO DO LIST MANAGER")
 print("----------------------------------")
 
 while True:
+
     print("\n ** TO DO LIST **")
     print("1. Add Your Task:")
     print("2. View Task:")
